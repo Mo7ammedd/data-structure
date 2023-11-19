@@ -26,5 +26,7 @@ List the implemented data structures along with a brief description of each.
 - [Linked List](link-to-linked-list-documentation)
 - [Stack](link-to-stack-documentation)
 - [Queue](link-to-queue-documentation)
+- [Binary Tree](link-to-binary-tree-documentation)
+
 
 

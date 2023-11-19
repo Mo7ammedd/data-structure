@@ -2,7 +2,11 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Mo7ammedd/data-structure?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Mo7ammedd/data-structure?style=social)
-![GitHub license](https://img.shields.io/github/license/Mo7ammedd/data-structure)
+## License
+
+This project is licensed under the [MIT License](https://github.com/Mo7ammedd/data-structure/blob/main/LICENSE) - see the [LICENSE](https://github.com/Mo7ammedd/data-structure/blob/main/LICENSE) file for details.
+
+[![GitHub license](https://img.shields.io/github/license/Mo7ammedd/data-structure)](https://github.com/Mo7ammedd/data-structure/blob/main/LICENSE)
 
 ## Overview
 
